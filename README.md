@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwebkori%2Fcore.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwebkori%2Fcore?ref=badge_shield)
+
 Cloud9 3.0 SDK for Plugin Development
 ======================================
 
@@ -92,3 +94,7 @@ To protect the interests of the Cloud9 contributors and users we require contrib
 If you want to contribute to the Cloud9 SDK and/or open source plugins please go to the online form, fill it out and submit it.
 
 Happy coding, Cloud9
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fwebkori%2Fcore.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fwebkori%2Fcore?ref=badge_large)
